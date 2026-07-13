@@ -1,4 +1,4 @@
-#!openg2p/openg2p-nsr-staff-portal-api:develop
+#!vin0dkhichar/openg2p-nsr-staff-portal-api:develop
 
 # NSR extension — built from this repo's working tree (copied into local_deps/ by parse_service.py).
 ./nsr-extension
